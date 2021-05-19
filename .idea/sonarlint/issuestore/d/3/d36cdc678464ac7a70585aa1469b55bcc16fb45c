@@ -1,0 +1,18 @@
+
+i
+java:S1104"NMake lx a static final constant or non-public and provide accessors if needed.(±¢Ÿıÿÿÿÿ
+c
+java:S1104"NMake ly a static final constant or non-public and provide accessors if needed.(ú³ÔV
+h
+java:S1104"RMake placed a static final constant or non-public and provide accessors if needed.(Ó“†
+j
+java:S1104	"OMake low a static final constant or non-public and provide accessors if needed.(ıÌàôıÿÿÿÿ
+i
+java:S1104"NMake hy a static final constant or non-public and provide accessors if needed.(ıµäãıÿÿÿÿ
+d
+java:S1104
+"NMake hx a static final constant or non-public and provide accessors if needed.(å½ûë
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜İâœÿÿÿÿÿ
+f
+java:S1104"PMake high a static final constant or non-public and provide accessors if needed.(Á¾ÿœ

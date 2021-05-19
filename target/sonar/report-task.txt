@@ -1,0 +1,7 @@
+organization=alikayahan
+projectKey=AliKayahan_domino
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.17329
+dashboardUrl=https://sonarcloud.io/dashboard?id=AliKayahan_domino
+ceTaskId=AXev4vTcpF7yPPnjb1SX
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXev4vTcpF7yPPnjb1SX
